@@ -12,7 +12,7 @@ public class NumberPatternSingleLoop4 {
         int k=0;
         Scanner s=new Scanner(System.in);
         n=s.nextInt();
-        d=n;
+        d=n-1;
          for(i=1;i<n;) {
              if (k < d) {
                  System.out.print(" ");
