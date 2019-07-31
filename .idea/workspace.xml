@@ -2,68 +2,91 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68b9947f-1aef-4ade-a50a-96e86854f82d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/ArrangeElementsInanArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/ArrangeNumbersInAnArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/DuplicateArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/FindTheDifference.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/PairSumInAnArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/PrintArrayInterSection.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/Sort01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/SwapAlternate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/TripletSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/NumberPattern2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/NumberPattern3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/BinaryToDecimal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/DecimalToBinary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/NumberPattern1SingleLoop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/NumberPattern2SingleLoop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/NumberPattern3SingeLoop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/NumberPattern4SingleLoop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/NumberPattern5SingleLoop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/NumberPattern6SingleLoop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/Pattern1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/Pattern2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/Pattern3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/Pattern4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/Pattern5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/Pattern6.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/SquareRoot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/SumOrProduct.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/TermsOfAp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals1b/AlphaPattern.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals1b/NumberPattern1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals1b/NumberPattern2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals1b/NumberPattern3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals1b/NumberPattern4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals1b/PowerOfANumber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals1b/SumOfEvenAndOdd.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals1b/SumOfEvenAndOddDigits.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals2a/AllPrimeNumbers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals2a/ArrowPattern.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals2a/FibonnaciSeries.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals2a/NoOftrainlingZeros.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals2a/NumberPattern.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/StarPattern.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ninjas2/RevisionCodingNinjas/AvgMarks.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ninjas2/RevisionCodingNinjas/CeciusToFrah.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ninjas2/RevisionCodingNinjas/CharCase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ninjas2/RevisionCodingNinjas/Number_Pattern.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ninjas2/RevisionCodingNinjas/Pyramid_Pattern1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/RevisionCodingNinjas/AvgMarks.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/RevisionCodingNinjas/CeciusToFrah.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/RevisionCodingNinjas/CharCase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/RevisionCodingNinjas/Number_Pattern.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/RevisionCodingNinjas/Pyramid_Pattern1.java" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/CharacterCase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ninjas2/OOPSPRACT/StaticandInterface/stack.class" afterPath="$PROJECT_DIR$/out/production/ninjas2/OOPSPRACT/StaticandInterface/stack.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ninjas2/OOPSPRACT/Thread/consumer.class" afterPath="$PROJECT_DIR$/out/production/ninjas2/OOPSPRACT/Thread/consumer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ninjas2/OOPSPRACT/Thread/producer.class" afterPath="$PROJECT_DIR$/out/production/ninjas2/OOPSPRACT/Thread/producer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ninjas2/RevisionCodingNinjas/NumberPattern.class" afterPath="$PROJECT_DIR$/out/production/ninjas2/RevisionCodingNinjas/NumberPattern.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ninjas2/RevisionCodingNinjas/SumOfEvenTillN.class" afterPath="$PROJECT_DIR$/out/production/ninjas2/RevisionCodingNinjas/SumOfEvenTillN.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ninjas2/RevisonComp/NumberPatternSingleLoop4.class" afterPath="$PROJECT_DIR$/out/production/ninjas2/RevisonComp/NumberPatternSingleLoop4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/AddTwoNumbers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/AllConsecutiveElements.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/Alternative.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/ArrayEqlibriumIndex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/BinarySearch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/BubbleSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/CheckArrayRotation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/CountInversionRe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/CountInversions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/FindAndReturnMultipleof2and3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/InsertionSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/LargestInAnArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/MaxProfit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/MergeTwoSortedArrays.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/PushZeroToEnd.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/RotateArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/SecondLargest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/SelectionSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/Sort012.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/SpecialSumOfArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/UpdateValueDivsionBy4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/Client1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/LengthOfLinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/LinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/LinkedList1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/LinkedList2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/MergeTwoList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/Node.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/AllIndexOfNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/DisplayAnArrray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/DisplayArrayInReverse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/FactorialRecursion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/FindElementsInAnArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/FirstIndex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/LastIndex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/MaximumInArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/NumberOfDigits.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/PowerOfANumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/PrintDecreasingIncreasing.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/PrintIncreasing.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/Recursion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/SumOfNElemetsInAnArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/SumOfNNaturalNumbers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/CheckPalindrome.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/CountNumberOfZeros.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/GeometricSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/MultiplicationOfTwoNumbers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/SumOfDigits.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/PairStar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/ReplaceWithPi.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/ReplaceX.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/StringToInteger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/TowerOfHanoi.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/MergeSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/PrintKeypadCombinations.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/RemoveDuplicates.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/ReplaceCharachter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/StairCase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/Subsequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/checkAb.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/String/MinimumLengthOfWord.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/String/NoOfWords.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/String/Palindrome.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/String/ReplaceCharachter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/String/ReverseEachWord.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/String/RowWiseSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/String/SpiralPattern.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/String/SubstringsOfAString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/String/SumOfRowAndColumn.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/String/WavePrint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/CheckPermutation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/CompressString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/HighestOccuringCharachter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/RemoveCharachter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/RemoveConsecutiveDuplicates.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/ReverseEachWord.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ninjas2/Recursion1/LastIndex.class" afterPath="$PROJECT_DIR$/out/production/ninjas2/Recursion1/LastIndex.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ninjas2/RevisonComp/Recursion/PairStar.class" afterPath="$PROJECT_DIR$/out/production/ninjas2/RevisonComp/Recursion/PairStar.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ninjas2/RevisonComp/sort/InsertionSort.class" afterPath="$PROJECT_DIR$/out/production/ninjas2/RevisonComp/sort/InsertionSort.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/RevisionCodingNinjas/NumberPattern.java" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/NumberPattern.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/RevisionCodingNinjas/SumOfEvenTillN.java" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/SumOfEvenTillN.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/RevisonComp/NumberPatternSingleLoop4.java" afterPath="$PROJECT_DIR$/src/RevisonComp/NumberPatternSingleLoop4.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Recursion1/LastIndex.java" afterPath="$PROJECT_DIR$/src/Recursion1/LastIndex.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/TripletSum.java" afterPath="$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/TripletSum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/RevisonComp/Recursion/PairStar.java" afterPath="$PROJECT_DIR$/src/RevisonComp/Recursion/PairStar.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/RevisonComp/sort/InsertionSort.java" afterPath="$PROJECT_DIR$/src/RevisonComp/sort/InsertionSort.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,23 +100,35 @@
     <SUITE FILE_PATH="coverage/ninjas2$MaxSum.coverage" NAME="MaxSum Coverage Results" MODIFIED="1534694850608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>RevisonComp.ArrayRe.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/ninjas2$PairStar.coverage" NAME="PairStar Coverage Results" MODIFIED="1536913053942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>RevisonComp.Recursion.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ninjas2$MaximizeTheSum.coverage" NAME="MaximizeTheSum Coverage Results" MODIFIED="1532354678683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>RevisonComp.array.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ninjas2$MaxProfit.coverage" NAME="MaxProfit Coverage Results" MODIFIED="1563782821700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>RevisionCodingNinjas.Array2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ninjas2$WavePrint.coverage" NAME="WavePrint Coverage Results" MODIFIED="1563864481134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>RevisionCodingNinjas.String.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ninjas2$LinkedListTwoA.coverage" NAME="LinkedListTwoA Coverage Results" MODIFIED="1538305196090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>RevisonComp.LinkedList.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/ninjas2$SquareRoot.coverage" NAME="SquareRoot Coverage Results" MODIFIED="1563294035299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>RevisionCodingNinjas.ProgrammingFundamental2b.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/ninjas2$MergeTwoSorted.coverage" NAME="MergeTwoSorted Coverage Results" MODIFIED="1547396290692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Array1.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/ninjas2$ReverseEachWord.coverage" NAME="ReverseEachWord Coverage Results" MODIFIED="1563873820034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>RevisionCodingNinjas.Strings2.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/ninjas2$ByteShortInt.coverage" NAME="ByteShortInt Coverage Results" MODIFIED="1524758967884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>online.variables.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/ninjas2$ReverseEachWordRev.coverage" NAME="ReverseEachWordRev Coverage Results" MODIFIED="1536147194970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>RevisonComp.Strings.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/ninjas2$PairStar.coverage" NAME="PairStar Coverage Results" MODIFIED="1536913053942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>RevisonComp.Recursion.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/ninjas2$MaximizeTheSum.coverage" NAME="MaximizeTheSum Coverage Results" MODIFIED="1532354678683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>RevisonComp.array.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/ninjas2$PrintArrayIntersection.coverage" NAME="PrintArrayIntersection Coverage Results" MODIFIED="1534659277652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>RevisonComp.ArrayRe.*</FILTER>
@@ -104,60 +139,59 @@
     <SUITE FILE_PATH="coverage/ninjas2$pushZeroesAtEnd.coverage" NAME="pushZeroesAtEnd Coverage Results" MODIFIED="1532363663858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>RevisonComp.array.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/ninjas2$LinkedListTwoA.coverage" NAME="LinkedListTwoA Coverage Results" MODIFIED="1538305196090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>RevisonComp.LinkedList.*</FILTER>
-    </SUITE>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="ninjas2" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NumberPattern6SingleLoop.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/NumberPattern6SingleLoop.java">
+      <file leaf-file-name="MyLinkList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LinkList/MyLinkList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="814">
-              <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="38" column="32" lean-forward="false" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindTheDifference.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/FindTheDifference.java">
+      <file leaf-file-name="LinkedList1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/LinkedList1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+            <state relative-caret-position="3146">
+              <caret line="151" column="20" lean-forward="false" selection-start-line="151" selection-start-column="20" selection-end-line="151" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SwapAlternate.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/SwapAlternate.java">
+      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            <state relative-caret-position="132">
+              <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+              <folding>
+                <element signature="e#152#153#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedList2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/LinkedList2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="36" column="21" lean-forward="false" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrangeNumbersInAnArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/ArrangeNumbersInAnArray.java">
+      <file leaf-file-name="LengthOfLinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/LengthOfLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrangeElementsInanArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/ArrangeElementsInanArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="163">
+              <caret line="156" column="39" lean-forward="false" selection-start-line="156" selection-start-column="39" selection-end-line="156" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -165,57 +199,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DuplicateArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/DuplicateArray.java">
+      <file leaf-file-name="MergeTwoList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/MergeTwoList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrintArrayInterSection.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/PrintArrayInterSection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="30" column="7" lean-forward="false" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PairSumInAnArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/PairSumInAnArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sort01.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/Sort01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="24" column="29" lean-forward="false" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TripletSum.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/TripletSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            <state relative-caret-position="132">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -244,63 +232,70 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/CharacterCase.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/SumOfEvenTillN.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/NumberPattern.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/NumberPattern2.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/StarPattern.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/NumberPattern3.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals1b/SumOfEvenAndOdd.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals1b/SumOfEvenAndOddDigits.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals1b/PowerOfANumber.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals1b/NumberPattern1.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals1b/NumberPattern2.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals1b/NumberPattern3.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals1b/NumberPattern4.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals1b/AlphaPattern.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals2a/AllPrimeNumbers.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals2a/FibonnaciSeries.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals2a/NoOftrainlingZeros.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals2a/ArrowPattern.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals2a/NumberPattern.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/SumOrProduct.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/TermsOfAp.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/ReverseANumber.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/BinaryToDecimal.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/DecimalToBinary.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/SquareRoot.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/Pattern2.java" />
-        <option value="$PROJECT_DIR$/src/RevisonComp/NumerPatternSingleLoop2.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/Pattern3.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/Pattern4.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/Pattern5.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/Pattern6.java" />
-        <option value="$PROJECT_DIR$/src/RevisonComp/NumerPattern2.java" />
-        <option value="$PROJECT_DIR$/src/RevisonComp/NumberPatternSingleLoop4.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/CheckSequence.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/Pattern1.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/Pattern1SingleLoop.java" />
-        <option value="$PROJECT_DIR$/src/RevisonComp/NumberPatternSingleLoop3.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/Pattern2SingleLoop.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/NumberPattern1SingleLoop.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/NumberPattern3SingeLoop.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/NumberPattern4SingleLoop.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/NumberPattern5SingleLoop.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/NumberPattern6SingleLoop.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/FindTheDifference.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/SwapAlternate.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/ArrangeNumbersInAnArray.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/ArrangeElementsInanArray.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/DuplicateArray.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/PrintArrayInterSection.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/PairSumInAnArray.java" />
-        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/Sort01.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/String/SpiralPattern.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/RemoveConsecutiveDuplicates.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/CheckPermutation.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/ReverseEachWord.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/RemoveCharachter.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/HighestOccuringCharachter.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/CompressString.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/Recursion.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/PrintIncreasing.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/PrintDecreasingIncreasing.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/FactorialRecursion.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/Factorial.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/PowerOfANumber.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/NumberOfDigits.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/SumOfNNaturalNumbers.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/DisplayAnArrray.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/DisplayArrayInReverse.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/MaximumInArray.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/FindElementsInAnArray.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/SumOfNElemetsInAnArray.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/FirstIndex.java" />
+        <option value="$PROJECT_DIR$/src/Recursion1/LastIndex.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/LastIndex.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/AllIndexOfNumber.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/MultiplicationOfTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/CountNumberOfZeros.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/GeometricSum.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/SumOfDigits.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/CheckPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/ReplaceWithPi.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/ReplaceX.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/StringToInteger.java" />
+        <option value="$PROJECT_DIR$/src/RevisonComp/Recursion/PairStar.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/PairStar.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/TowerOfHanoi.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recusrion2.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/ReplaceCharachter.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/RemoveDuplicates.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/checkAb.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/StairCase.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/Subsequence.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/PrintKeypadCombinations.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/Client.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/Client1.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/LinkedList1.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/Node.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/LinkedList2.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/LengthOfLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/MergeTwoList.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="y" value="13" />
-    <option name="width" value="1356" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="738" />
     <option name="height" value="722" />
   </component>
   <component name="ProjectView">
@@ -318,8 +313,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -336,7 +333,7 @@
               <item name="ninjas2" type="b2602c69:ProjectViewProjectNode" />
               <item name="ninjas2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkList" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ninjas2" type="b2602c69:ProjectViewProjectNode" />
@@ -349,7 +346,14 @@
               <item name="ninjas2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="RevisionCodingNinjas" type="462c0819:PsiDirectoryNode" />
-              <item name="Array1" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedList1a" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ninjas2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ninjas2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="RevisionCodingNinjas" type="462c0819:PsiDirectoryNode" />
+              <item name="ProgrammingFundamental2b" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ninjas2" type="b2602c69:ProjectViewProjectNode" />
@@ -357,12 +361,37 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="RevisonComp" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ninjas2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ninjas2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="RevisonComp" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ninjas2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ninjas2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="RevisonComp" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="Client1.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="ninjas2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ninjas2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="StringsAnd2dArray" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ninjas2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ninjas2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -390,15 +419,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Sort01">
-    <configuration name="ArrangeElementsInanArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.LengthOfLinkedList">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="RevisionCodingNinjas.Array1.*" />
+          <option name="PATTERN" value="RevisionCodingNinjas.LinkedList1a.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="RevisionCodingNinjas.Array1.ArrangeElementsInanArray" />
+      <option name="MAIN_CLASS_NAME" value="RevisionCodingNinjas.LinkedList1a.Client" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -410,14 +439,14 @@
       <module name="ninjas2" />
       <envs />
     </configuration>
-    <configuration name="DuplicateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Client1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="RevisionCodingNinjas.Array1.*" />
+          <option name="PATTERN" value="RevisionCodingNinjas.LinkedList1a.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="RevisionCodingNinjas.Array1.DuplicateArray" />
+      <option name="MAIN_CLASS_NAME" value="RevisionCodingNinjas.LinkedList1a.Client1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -429,14 +458,33 @@
       <module name="ninjas2" />
       <envs />
     </configuration>
-    <configuration name="PairSumInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Client1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="RevisionCodingNinjas.Array1.*" />
+          <option name="PATTERN" value="RevisonComp.LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="RevisionCodingNinjas.Array1.PairSumInAnArray" />
+      <option name="MAIN_CLASS_NAME" value="RevisonComp.LinkedList.Client1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ninjas2" />
+      <envs />
+    </configuration>
+    <configuration name="LengthOfLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="RevisionCodingNinjas.LinkedList1a.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="RevisionCodingNinjas.LinkedList1a.LengthOfLinkedList" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -467,33 +515,14 @@
       <module name="ninjas2" />
       <envs />
     </configuration>
-    <configuration name="PrintArrayInterSection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="PrintKeypadCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="RevisionCodingNinjas.Array1.*" />
+          <option name="PATTERN" value="RevisionCodingNinjas.Recursion2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="RevisionCodingNinjas.Array1.PrintArrayInterSection" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ninjas2" />
-      <envs />
-    </configuration>
-    <configuration name="Sort01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="RevisionCodingNinjas.Array1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="RevisionCodingNinjas.Array1.Sort01" />
+      <option name="MAIN_CLASS_NAME" value="RevisionCodingNinjas.Recursion2.PrintKeypadCombinations" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -587,19 +616,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.Plaindrome" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ArrangeElementsInanArray" />
-      <item index="2" class="java.lang.String" itemvalue="Application.DuplicateArray" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PrintArrayInterSection" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PairSumInAnArray" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Sort01" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PrintKeypadCombinations" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Client" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Client1" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Client1 (1)" />
+      <item index="5" class="java.lang.String" itemvalue="Application.LengthOfLinkedList" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Sort01" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PairSumInAnArray" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PrintArrayInterSection" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DuplicateArray" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ArrangeElementsInanArray" />
+        <item index="0" class="java.lang.String" itemvalue="Application.LengthOfLinkedList" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Client1 (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Client" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Client1" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PrintKeypadCombinations" />
       </list>
     </recent_temporary>
   </component>
@@ -630,37 +659,66 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25328946" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2713816" sideWeight="0.50907713" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2911184" sideWeight="0.49092284" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32730263" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2911184" sideWeight="0.5537065" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.49394855" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1860817" sideWeight="0.82125604" order="0" side_tool="true" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15431164" sideWeight="0.82125604" order="0" side_tool="true" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32730263" sideWeight="0.4969743" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32330248" sideWeight="0.17874396" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294753" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28618422" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28453946" sideWeight="0.5015129" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25328946" sideWeight="0.44553706" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290469" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277592" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290469" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2911184" sideWeight="0.4591528" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32330248" sideWeight="0.17874396" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28453946" sideWeight="0.5559758" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25328946" sideWeight="0.49092284" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2911184" sideWeight="0.5408472" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290469" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.49394855" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2193646" sideWeight="0.82125604" order="0" side_tool="true" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277592" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294753" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -1186,37 +1244,31 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/RevisonComp/sort/InsertionSort.java</url>
-          <line>18</line>
+          <line>19</line>
           <properties />
           <option name="timeStamp" value="154" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/RevisonComp/sort/InsertionSort.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="155" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/RevisonComp/sort/InsertionSort.java</url>
-          <line>20</line>
+          <line>21</line>
           <properties />
           <option name="timeStamp" value="156" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/RevisonComp/sort/InsertionSort.java</url>
-          <line>22</line>
+          <line>23</line>
           <properties />
           <option name="timeStamp" value="157" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/RevisonComp/sort/InsertionSort.java</url>
-          <line>24</line>
+          <line>25</line>
           <properties />
           <option name="timeStamp" value="158" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/RevisonComp/sort/InsertionSort.java</url>
-          <line>21</line>
+          <line>22</line>
           <properties />
           <option name="timeStamp" value="159" />
         </line-breakpoint>
@@ -3272,390 +3324,1671 @@
           <properties />
           <option name="timeStamp" value="691" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/BinarySearch.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="693" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/BinarySearch.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="694" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/BinarySearch.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="695" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/BinarySearch.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="696" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/BinarySearch.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="697" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/BinarySearch.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="698" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/BinarySearch.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="699" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/BinarySearch.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="700" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/BinarySearch.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="701" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/BinarySearch.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="702" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/BinarySearch.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="703" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/BinarySearch.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="704" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/BinarySearch.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="705" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/PushZeroToEnd.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="706" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/PushZeroToEnd.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="713" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/PushZeroToEnd.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="714" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/PushZeroToEnd.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="716" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/PushZeroToEnd.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="718" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/PushZeroToEnd.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="719" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/PushZeroToEnd.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="720" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/PushZeroToEnd.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="721" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/RotateArray.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="722" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/RotateArray.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="723" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/RotateArray.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="724" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/RotateArray.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="725" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/RotateArray.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="726" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/RotateArray.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="727" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/RotateArray.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="728" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/RotateArray.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="729" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/RotateArray.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="730" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/Sort012.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="731" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/Sort012.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="732" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/Sort012.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="733" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/Sort012.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="734" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/Sort012.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="735" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/Sort012.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="737" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/Sort012.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="738" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/Sort012.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="739" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/Sort012.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="741" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/Sort012.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="742" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/Sort012.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="743" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/Sort012.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="744" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/Sort012.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="745" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/Sort012.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="746" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/Sort012.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="747" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/Sort012.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="748" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/SpecialSumOfArray.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="763" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/SpecialSumOfArray.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="764" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/SpecialSumOfArray.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="765" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/SpecialSumOfArray.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="766" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/SpecialSumOfArray.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="767" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/SpecialSumOfArray.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="768" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/SpecialSumOfArray.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="769" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/CountInversions.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="770" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/CountInversions.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="771" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/CountInversions.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="772" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/CountInversions.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="773" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/CountInversions.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="775" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/CountInversions.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="776" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/CountInversionRe.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="785" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/CountInversionRe.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="787" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/CountInversionRe.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="788" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/CountInversionRe.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="789" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/CountInversionRe.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="790" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/CountInversionRe.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="792" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/Alternative.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="801" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/MaxProfit.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="803" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/MaxProfit.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="804" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/MaxProfit.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="805" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/MaxProfit.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="806" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/MaxProfit.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="807" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/Palindrome.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="808" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/Palindrome.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="809" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/Palindrome.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="810" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/Palindrome.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="811" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/Palindrome.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="812" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/Palindrome.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="813" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/ReplaceCharachter.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="814" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/ReplaceCharachter.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="815" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/ReplaceCharachter.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="817" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/ReplaceCharachter.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="819" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/MinimumLengthOfWord.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="820" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/MinimumLengthOfWord.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="821" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/MinimumLengthOfWord.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="826" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/MinimumLengthOfWord.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="827" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/SumOfRowAndColumn.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="828" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/SumOfRowAndColumn.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="829" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/SumOfRowAndColumn.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="830" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/SumOfRowAndColumn.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="831" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/SumOfRowAndColumn.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="832" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/SumOfRowAndColumn.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="833" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/SumOfRowAndColumn.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="834" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/SumOfRowAndColumn.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="835" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/SumOfRowAndColumn.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="837" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/SumOfRowAndColumn.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="838" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/SumOfRowAndColumn.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="839" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/SumOfRowAndColumn.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="840" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/SumOfRowAndColumn.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="841" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/SumOfRowAndColumn.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="842" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/WavePrint.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="859" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/WavePrint.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="860" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/WavePrint.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="861" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/WavePrint.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="862" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/WavePrint.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="863" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/WavePrint.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="864" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/WavePrint.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="865" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/WavePrint.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="866" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/WavePrint.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="867" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/WavePrint.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="868" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/WavePrint.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="869" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/String/SpiralPattern.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="870" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/RemoveConsecutiveDuplicates.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="882" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/RemoveConsecutiveDuplicates.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="883" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/RemoveConsecutiveDuplicates.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="884" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/RemoveConsecutiveDuplicates.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="885" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/RemoveConsecutiveDuplicates.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="887" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/RemoveConsecutiveDuplicates.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="888" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/ReverseEachWord.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="889" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/ReverseEachWord.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="890" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/ReverseEachWord.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="891" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/ReverseEachWord.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="893" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/ReverseEachWord.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="894" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/ReverseEachWord.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="895" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/ReverseEachWord.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="896" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/ReverseEachWord.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="897" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/ReverseEachWord.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="898" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/ReverseEachWord.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="899" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/CompressString.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="900" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/CompressString.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="907" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/CompressString.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="908" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/CompressString.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="909" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Strings2/CompressString.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="910" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/FactorialRecursion.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="911" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/FactorialRecursion.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="912" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/FactorialRecursion.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="913" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/FactorialRecursion.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="914" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/FactorialRecursion.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="915" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/PowerOfANumber.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="916" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/PowerOfANumber.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="917" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/PowerOfANumber.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="918" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/PowerOfANumber.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="919" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/PowerOfANumber.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="920" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/NumberOfDigits.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="921" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/NumberOfDigits.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="922" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/NumberOfDigits.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="923" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/NumberOfDigits.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="924" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/NumberOfDigits.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="925" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/SumOfNNaturalNumbers.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="926" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/SumOfNNaturalNumbers.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="927" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/SumOfNNaturalNumbers.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="928" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/SumOfNNaturalNumbers.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="929" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/FindElementsInAnArray.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="930" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/FindElementsInAnArray.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="931" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/FindElementsInAnArray.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="932" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/FindElementsInAnArray.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="934" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/FindElementsInAnArray.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="935" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/FindElementsInAnArray.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="936" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/LastIndex.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="937" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/LastIndex.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="938" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/LastIndex.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="940" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/LastIndex.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="941" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/LastIndex.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="942" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/LastIndex.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="943" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/LastIndex.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="946" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/LastIndex.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="947" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/AllIndexOfNumber.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="948" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/AllIndexOfNumber.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="950" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/AllIndexOfNumber.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="951" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/AllIndexOfNumber.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="952" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/AllIndexOfNumber.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="955" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/AllIndexOfNumber.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="956" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/AllIndexOfNumber.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="957" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/AllIndexOfNumber.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="958" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/AllIndexOfNumber.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="959" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/AllIndexOfNumber.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="960" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/CountNumberOfZeros.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="961" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/CountNumberOfZeros.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="963" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/CountNumberOfZeros.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="965" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/CountNumberOfZeros.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="966" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/CountNumberOfZeros.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="967" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/CountNumberOfZeros.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="968" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/CountNumberOfZeros.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="969" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/CountNumberOfZeros.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="970" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/CheckPalindrome.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="971" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/CheckPalindrome.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="972" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/CheckPalindrome.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="973" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/CheckPalindrome.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="974" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/ReplaceWithPi.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="975" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/ReplaceWithPi.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="976" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/ReplaceWithPi.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="978" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/ReplaceWithPi.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="979" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/ReplaceWithPi.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="980" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/ReplaceWithPi.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="981" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/ReplaceX.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="982" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/ReplaceX.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="983" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/ReplaceX.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="984" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/ReplaceX.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="985" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/PairStar.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="986" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/PairStar.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="987" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/PairStar.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="988" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/PairStar.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="989" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/PairStar.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="990" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/PairStar.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="991" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/ReplaceCharachter.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="992" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/ReplaceCharachter.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="993" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/ReplaceCharachter.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="994" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/ReplaceCharachter.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="995" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/ReplaceCharachter.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="997" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/ReplaceCharachter.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="998" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/ReplaceCharachter.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="999" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/RemoveDuplicates.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="1000" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/RemoveDuplicates.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="1001" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/RemoveDuplicates.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="1002" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/RemoveDuplicates.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="1003" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/LinkedList1.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="1006" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="692" />
+      <option name="time" value="1007" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals2a/FibonnaciSeries.java">
+    <entry file="file://$PROJECT_DIR$/src/Recursion1/LastIndex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        <state relative-caret-position="1056">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals2a/NoOftrainlingZeros.java">
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/LastIndex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/SumOrProduct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="23" column="30" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        <state relative-caret-position="185">
+          <caret line="29" column="9" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/BinaryToDecimal.java">
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion/AllIndexOfNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/SquareRoot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        <state relative-caret-position="286">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/TermsOfAp.java">
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/MultiplicationOfTwoNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        <state relative-caret-position="264">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals2a/ArrowPattern.java">
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/CountNumberOfZeros.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        <state relative-caret-position="97">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamentals2a/NumberPattern.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        <state relative-caret-position="362">
+          <caret line="657" column="0" lean-forward="false" selection-start-line="657" selection-start-column="0" selection-end-line="657" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/DecimalToBinary.java">
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/ReplaceX.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        <state relative-caret-position="110">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/Pattern2.java">
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/ReplaceWithPi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        <state relative-caret-position="198">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/Pattern3.java">
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/CheckPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        <state relative-caret-position="132">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/Pattern4.java">
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/SumOfDigits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        <state relative-caret-position="286">
+          <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/Pattern5.java">
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1a/GeometricSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="97">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisonComp/NumberPattern1.java">
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/StringToInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Recursion1/SeperateDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RevisonComp/Recursion/NumberOfZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RevisonComp/Recursion/PairStar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisonComp/NumberPattern3.java">
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/PairStar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        <state relative-caret-position="258">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisonComp/StarPattern.java">
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recusrion2.java" />
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion1b/TowerOfHanoi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisonComp/Patter2.java">
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisonComp/Pattern1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
+        <state relative-caret-position="352">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Patterns/PatternOne.java">
+    <entry file="file://$PROJECT_DIR$/src/RevisonComp/LinkedList/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="352">
+          <caret line="149" column="18" lean-forward="false" selection-start-line="149" selection-start-column="18" selection-end-line="149" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisonComp/NumberPattern8.java">
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="35" column="4" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array2/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkList/ImplementAddatPos2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisonComp/NumberPattern9.java">
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/ReplaceCharachter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisonComp/NumberPattern5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisonComp/NumberPattern7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisonComp/NumberPattern6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisonComp/NumerPattern2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state relative-caret-position="198">
+          <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/ReverseANumber.java">
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/checkAb.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="572">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/Pattern6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/CheckSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/Pattern1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisonComp/NumberPattern4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/NumberPattern1SingleLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/NumberPattern2SingleLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisonComp/NumberPatternSingleLoop3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisonComp/NumberPatternSingleLoop4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="39" column="4" lean-forward="false" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisonComp/NumberPatternSingleLoop1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/NumberPattern3SingeLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/NumberPattern4SingleLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="26" column="33" lean-forward="false" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisonComp/NumberPatternSingleLoop5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/NumberPattern5SingleLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisonComp/NumberPatternSingleLoop6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisonComp/NumberPatternSingleLoop7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/ProgrammingFundamental2b/NumberPattern6SingleLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/FindTheDifference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/SwapAlternate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/ArrangeNumbersInAnArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/ArrangeElementsInanArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/DuplicateArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/PrintArrayInterSection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" column="7" lean-forward="false" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/PairSumInAnArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/Sort01.java">
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/StairCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="24" column="29" lean-forward="false" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/Subsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="23" column="7" lean-forward="false" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList.java" />
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/PrintKeypadCombinations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RevisonComp/LinkedList/LinkedListTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="42" column="4" lean-forward="false" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RevisonComp/LinkedList/LinkedListTwoA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Array1/TripletSum.java">
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/Recursion2/RemoveDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RevisonComp/LinkedList/Client1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="185" column="22" lean-forward="true" selection-start-line="185" selection-start-column="22" selection-end-line="185" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/Client1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="172" column="24" lean-forward="true" selection-start-line="172" selection-start-column="24" selection-end-line="172" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkList/Node2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkList/Palinrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkList/Node1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkList/MylinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkList/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkList/AddatPos2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkList/LinkListRecursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkList/MyLinkList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="38" column="32" lean-forward="false" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/LinkedList2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" column="21" lean-forward="false" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/LinkedList1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3146">
+          <caret line="151" column="20" lean-forward="false" selection-start-line="151" selection-start-column="20" selection-end-line="151" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkList/MergeToSortedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="50" column="14" lean-forward="true" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/LengthOfLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="156" column="39" lean-forward="false" selection-start-line="156" selection-start-column="39" selection-end-line="156" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RevisionCodingNinjas/LinkedList1a/MergeTwoList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding />
         </state>
       </provider>

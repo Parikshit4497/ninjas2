@@ -16,8 +16,9 @@ public class InsertionSort {
             arr[i]=s.nextInt();
         }
         for(i=0;i<arr.length;i++){
-            j=i-1;
             temp=arr[i];
+            j=i-1;
+
            while(j>=0&&temp<arr[j]){
              arr[j+1]=arr[j];
              j=j-1;

@@ -18,7 +18,7 @@ public class LastIndex{;
         }
         System.out.println("Enter the number:");
         x = s.nextInt();
-        ArraySearch(arr,0,x);
+        System.out.println(ArraySearch(arr,0,x));
     }
     public static int ArraySearch(int [] arr,int index,int num) {
            if(arr.length==index)
